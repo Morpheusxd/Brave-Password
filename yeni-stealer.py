@@ -7,7 +7,6 @@ from Crypto.Cipher import AES
 import zipfile
 import shutil   
 import requests
-import İp_Sorgu
 import dhooks
 
 
@@ -108,7 +107,6 @@ def main():
 if __name__ == "__main__":
     main()
     
-İp_Sorgu.ip_sorgu()
 
 # Ziplenecek dosyaların listesi
 
