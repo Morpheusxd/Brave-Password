@@ -1,6 +1,6 @@
 # Brave-Password And İp Grabber
 ## Kendini geliştirmek isteyenler burdan örnekleme yapabilir
-# Brave Browser Şifrelerini Alır Ve Discord Webhook Aracılığı ile geri gönderir
+### Brave Browser Şifrelerini Alır Ve Discord Webhook Aracılığı ile geri gönderir
 # İp Adres Bilgileri
 ## Örnek
 
