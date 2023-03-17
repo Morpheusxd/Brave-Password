@@ -4,4 +4,3 @@
 ### İp Adres Bilgileri
 ### Örnek
 
-![image](https://user-images.githubusercontent.com/127852144/226062031-a1a6e1cb-67cc-4f9f-b7d2-2250ba15f077.png)
